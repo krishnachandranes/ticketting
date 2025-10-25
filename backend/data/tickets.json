@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "title": "Website Login Issue",
+    "description": "Users are unable to log in to the website. Getting 500 error.",
+    "priority": "High",
+    "status": "Open",
+    "assignedTo": "john.doe@example.com",
+    "createdAt": "2024-01-15T10:30:00.000Z",
+    "updatedAt": "2024-01-15T10:30:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "Database Performance",
+    "description": "Database queries are running slowly, affecting user experience.",
+    "priority": "Medium",
+    "status": "In Progress",
+    "assignedTo": "jane.smith@example.com",
+    "createdAt": "2024-01-14T14:20:00.000Z",
+    "updatedAt": "2024-01-15T09:15:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "UI Enhancement Request",
+    "description": "Need to improve the user interface for better accessibility.",
+    "priority": "Low",
+    "status": "Closed",
+    "assignedTo": "mike.wilson@example.com",
+    "createdAt": "2024-01-10T16:45:00.000Z",
+    "updatedAt": "2024-01-12T11:30:00.000Z"
+  }
+]
+
